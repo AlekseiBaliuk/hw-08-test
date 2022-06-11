@@ -1,0 +1,19 @@
+@keyframes slide-top {
+  from {
+    transform: translateY(-3px);
+  }
+
+  to {
+    transform: translateY(3px);
+  }
+}
+
+@keyframes scale-button {
+  from {
+    transform: scale(0.8);
+  }
+
+  to {
+    transform: scale(0.9);
+  }
+}

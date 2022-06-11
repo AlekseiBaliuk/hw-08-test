@@ -3,12 +3,6 @@
   border-bottom: 1px solid #ececec;
 }
 
-.header__container {
-  @media screen and (max-width: 767px) {
-    position: relative;
-  }
-}
-
 .header__nav {
   @media screen and (max-width: 767px) {
     display: flex;
